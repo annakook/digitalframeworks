@@ -1,4 +1,4 @@
-#Assignment 4: Story Pitch
+##Assignment 4: Story Pitch
 
 I plan to explore how immigrants are affecting the U.S. economy in different industries. With so much current political debate around immigration, and the notion that President Trump has put out that immigrants are stealing American jobs, the question I plan to answer is how are immigrants affecting the U.S. economy. In doing so, I want to observe what kind of industries that immigrants may be most dominant in, and how that industry impacts the U.S. economy. I think this will also try to answer the question for "are immigrants really stealing American jobs?" 
 
