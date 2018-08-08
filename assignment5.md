@@ -10,7 +10,7 @@ Based on the data, the occupation fields that foreigners are working mostly in a
 
 To clean this data, I had to import everything into excel and organize them separately. Because the data was already separated into different sections and topics, I didn’t have to re-organize anything too much other than using the filter button to make some of the amounts/numbers go from largest to smallest. 
 
-# Sample headline & nut graf: 
+**Sample headline & nut graf** 
 
 Immigrants most likely to be employed in either the lowest or the highest paying jobs 
 
