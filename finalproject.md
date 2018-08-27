@@ -16,7 +16,7 @@ But that notion depends on the fact that immigrants are identical to the low-ski
 
 “If there is any low-skilled worker that’s hurt by immigrants, it’s actually other low-skilled immigrants. So immigrants are substitutes for each other and not Americans because immigrants fill in different jobs than low-skilled Americans,” he said.  
 
-On the other hand, a widely cited study conducted by Harvard professor George Borjas demonstrates that Cuban immigrants hurt native workers’ wages and jobs in Miami. Thus, Borjas draws a larger conclusion that low-skilled immigrants hurt native workers’ wages in America. Yet even if this were the case in certain communities, Hernandaz says this phenomenon is negligible compared to the total net effect. 
+On the other hand, a widely cited study conducted by Harvard professor George Borjas demonstrates that Cuban immigrants hurt Miami workers’ wages and jobs. Thus, Borjas draws a larger conclusion that low-skilled immigrants hurt America wages. Yet even if this were the case in certain communities, Hernandaz says this phenomenon is negligible compared to the total net effect. 
 
 “Let’s say worst case scenario there is a negative effect, but that effect is very small on a very small population of uneducated Americans,” Hernandaz said. “But the issue is that most anger and political discourse is around that small population.” 
 
