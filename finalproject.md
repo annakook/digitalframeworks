@@ -8,11 +8,11 @@ As a part of this rising rhetoric, President Donald Trump was elected with promi
 
 At first glance, overarching trends seem to reaffirm the fact that immigrants are threatening Americans by taking jobs. Overall, there has been a steady increase of foreign workers entering the United States. Foreign-born workers are more likely than Americans to be employed in service occupations, which includes jobs in industries such as healthcare, food preparation, construction and personal care services. 
 
-[Data comparing employment fields of immigrants and Americans](Screen Shot 2018-08-27 at 5.27.52 PM.png)
+[Data comparing employment fields of immigrants and Americans](Graph2)
 
 The areas of work in which immigrants are most concentrated in are divided among low-skilled and high-skilled jobs. First, low-skilled workers earn less than an American worker would in the same field, according to the most recent data released by the U.S. Bureau of Labor Statistics. This raises the point that immigrants are more likely than an American to get low-skilled jobs because of competitive low wages. 
 
-[Insert data visualization illustrating immigrants in different industries](Screen Shot 2018-08-27 at 8.29.29 AM.png)
+[Insert data visualization illustrating immigrants in different industries](Graph1)
 
 But that notion depends on the fact that immigrants are identical to the low-skilled American counterpart, and thus immigrants are acting as substitutes. Wharton school of the University of Pennsylvania professor Exequiel Hernandaz says in most cases, they are not competing for the same jobs. 
 
@@ -26,7 +26,7 @@ Besides low-skilled immigrant workers, there is a high concentration of foreigne
 
 It is fair to say that these types of professional jobs usually require nuanced knowledge and high-level education. According to the data and chart below, it’s noteworthy that immigrants have a lower median salary than Americans at every education level besides a bachelor’s or higher.
 
-[Insert bar chart comparing education level and salary](Screen Shot 2018-08-27 at 8.31.46 AM.png)
+[Insert bar chart comparing education level and salary](Graph3)
 
 One could argue that these foreigners are stealing high-paying jobs from Americans. Nonetheless, foreigners are actually filling jobs and providing skills different from an American, and those unique skills garner a higher wage.
 
